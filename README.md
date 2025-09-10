@@ -2,7 +2,7 @@
 Penerapan Model Klasifikasi Obesitas Menggunakan Algoritma Klasifikasi
 
 # Masalah yang Dihadapi
-## Kenapa Kita Harus Membuat Model Ini?
+Kenapa Kita Harus Membuat Model Ini?
 Penyebaran obesitas meningkat pesat di seluruh dunia dan mempengaruhi kualitas hidup banyak orang. Klasifikasi obesitas berbasis data dapat membantu dalam pengambilan keputusan untuk intervensi yang lebih tepat dalam program kesehatan masyarakat.
 
 # Algoritma yang Digunakan
